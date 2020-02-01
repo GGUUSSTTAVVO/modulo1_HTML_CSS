@@ -1,0 +1,27 @@
+/*reset
+atalhos mais perto do (f) vai ser mais claro mais perto do (0) escuro
+ bgc=background-color: #fff;
+ Se colocar (!important) ele define como prioridade para não ter mudança
+
+*/
+
+*{
+    background-color: red; /*cor do fundo*/
+    color: #000000;
+}
+#listaMenu{
+    background-color:   rgb(red, green, blue);
+}
+
+.fundo-azul{
+    background-color:blue ;
+    border: 2px dashed black;
+}
+
+header,footer{
+    color:orange;
+    background-color: purple;
+}
+article:first-child{
+    border
+}
